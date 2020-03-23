@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1546981148 source:c:\users\danis\appdata\roaming\codeblocks\impas\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+
